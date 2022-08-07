@@ -1,0 +1,727 @@
+﻿This is a log file for Open Rails. Please include this file in bug reports.
+--------------------------------------------------------------------------------
+Date/time  = 2022-08-06 7:02:38 PM (2022-08-07 01:02:38Z)
+BIOS       = N2HET42W (1.25 ) (LENOVO)
+Processor  = Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz (8 threads, 4 cores, 2.0 GHz) (L1 Cache 256 KB) (L2 Cache 1024 KB) (L3 Cache 8192 KB)
+Memory     = 15.8 GB
+Video      = Intel(R) UHD Graphics 620 (1.0 GB RAM) (igdkmd64 30.0.101.1338)
+Display    = \\.\DISPLAY1 (3840 x 2160, 32-bit, primary, 0 x 0)
+Sound      = Realtek High Definition Audio(SST) (rtkvhd64 6.0.9354.1)
+Sound      = 英特尔(R) 显示器音频 (intcdaud 10.27.0.11)
+Sound      = NVIDIA Virtual Audio Device (Wave Extensible) (WDM) (nvvad64v 4.13.0.0)
+Sound      = 英特尔® 智音技术 (intcdmic 10.23.0.4880)
+Disk       = C: (本地固定磁盘, NTFS, 152.6 GB, 33.1 GB free)
+Disk       = D: (本地固定磁盘, NTFS, 200.0 GB, 136.5 GB free)
+Disk       = E: (本地固定磁盘, NTFS, 300.0 GB, 173.3 GB free)
+Disk       = F: (本地固定磁盘, NTFS, 300.0 GB, 172.2 GB free)
+OS         = Microsoft Windows 10 专业版 64 位 (10.0.19042)
+Runtimes   = 4 Client  4 Full  4.0 Client 
+Runtime    = 4.0.30319.42000 (32bit)
+\\.\DISPLAY1 = Intel(R) UHD Graphics 620
+--------------------------------------------------------------------------------
+Version    = 1.4
+Build      = 0.0.7962.28256 (2021-10-19 15:41:52Z)
+Logfile    = C:\Users\X1 Carbon\Desktop\OpenRailsLog.txt
+Executable = RunActivityLAA.exe
+Argument   = -start
+Argument   = -explorer
+Argument   = F:\ROUTES\BNSF_Scenic\PATHS\EB_Path.pat
+Argument   = F:\TRAINS\CONSISTS\BNSF_Grain.con
+Argument   = 12:00
+Argument   = 1
+Argument   = 0
+--------------------------------------------------------------------------------
+ActRandomizationLevel          =                0
+ActWeatherRandomizationLevel   =                0
+AdhesionFactor                 =                130
+AdhesionFactorChange           =                10
+AdhesionMovingAverageFilterSize =                10
+AdhesionProportionalToWeather  =                False
+Alerter                        =                False
+AlerterDisableExternal         =                True
+AntiAliasing                   = (user set)     2
+AuxActionEnabled               =                False
+AvatarURL                      =                http://openrails.org/images/support-logos.jpg
+BrakePipeChargingRate          =                21
+BreakCouplers                  =                False
+Cab2DStretch                   =                0
+CarVibratingLevel              =                0
+CircularSpeedGauge             =                False
+ConditionalLoadOfDayOrNightTextures =                False
+CorrectQuestionableBrakingParams =                False
+CurveResistanceDependent       =                False
+CurveSpeedDependent            =                False
+DataLogger                     =                False
+DataLoggerSeparator            =                comma
+DataLogMisc                    =                False
+DataLogPerformance             =                True
+DataLogPhysics                 =                False
+DataLogSpeedUnits              =                route
+DataLogStart                   =                False
+DataLogStationStops            =                False
+DataLogSteamPerformance        =                False
+DataLogTrainSpeed              =                False
+DataLogTSContents              =                1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0
+DataLogTSInterval              =                10
+DayAmbientLight                =                20
+DebriefActivityEval            =                False
+DebriefEvalFilename            =                OR-DebriefEval.txt
+DebriefTTActivityEval          =                False
+DirectXFeatureLevel            =                10_0
+DisableTCSScripts              =                False
+DistantMountains               =                True
+DistantMountainsViewingDistance =                40000
+DoubleWire                     =                False
+DynamicShadows                 =                False
+ExternalSoundPassThruPercent   =                50
+FastFullScreenAltTab           =                False
+FullScreen                     = (user set)     True
+GraduatedRelease               =                False
+HotStart                       =                True
+IsModeActivity                 =                True
+Language                       =                
+Letterbox2DCab                 =                False
+LODBias                        =                0
+LODViewingExtention            =                False
+Logging                        =                True
+LoggingFilename                =                OpenRailsLog.txt
+LoggingPath                    =                C:\Users\X1 Carbon\Desktop
+Menu_Selection                 = (user set)     F:\, F:\ROUTES\BNSF_Scenic, , , F:\TRAINS\CONSISTS\BNSF_Grain.con, F:\ROUTES\BNSF_Scenic\PATHS\EB_Path.pat, 12:00, 1, 0
+ModelInstancing                =                False
+MSTSBINSound                   =                True
+Multiplayer                    =                False
+Multiplayer_Host               =                127.0.0.1
+Multiplayer_Port               =                30000
+Multiplayer_UpdateInterval     =                10
+Multiplayer_User               =                X1 Carbon
+MultiplayerClient              =                False
+MultiplayerServer              =                False
+NoDieselEngineStart            =                False
+NoForcedRedAtStationStops      =                False
+OpenDoorsInAITrains            =                False
+OSDCarsState                   =                1
+OSDLocationsState              =                7
+OverrideNonElectrifiedRoutes   =                False
+PerformanceTuner               =                False
+PerformanceTunerTarget         =                60
+PrecipitationBoxHeight         =                100
+PrecipitationBoxLength         =                500
+PrecipitationBoxWidth          =                500
+PreferDDSTexture               = (user set)     True
+PressureUnit                   =                Automatic
+Profiling                      =                False
+ProfilingFrameCount            =                0
+ProfilingTime                  =                0
+ReplayPauseBeforeEnd           =                True
+ReplayPauseBeforeEndS          =                0
+RetainersOnAllCars             =                False
+ScreenshotPath                 =                C:\Users\X1 Carbon\Pictures\Open Rails
+ShadowAllShapes                =                False
+ShadowMapBlur                  =                True
+ShadowMapCount                 =                4
+ShadowMapDistance              =                1000
+ShadowMapResolution            =                1024
+ShowAvatar                     =                False
+ShowErrorDialogs               =                True
+SignalLightGlow                =                False
+SimpleControlPhysics           =                False
+SoundDetailLevel               =                5
+SoundVolumePercent             =                100
+SpeedControl                   =                True
+SuperElevationGauge            =                1435
+SuperElevationMinLen           =                50
+SuppressConfirmations          =                False
+SuppressShapeWarnings          =                True
+TrackMonitorDisplayMode        =                0
+TTCreateTrainOnPoolUnderflow   =                True
+TTOutputTimetableFullEvaluation =                False
+TTOutputTimetableTrainInfo     =                False
+TTUseRestartDelays             =                True
+TunnelResistanceDependent      =                False
+Units                          =                Automatic
+Use3DCab                       =                True
+UseAdvancedAdhesion            =                True
+UseLargeAddressAware           =                True
+UseLocationPassingPaths        =                False
+UseMSTSEnv                     =                False
+UseSuperElevation              =                0
+VerboseConfigurationMessages   =                False
+VerticalSync                   =                False
+ViewDispatcher                 =                False
+ViewingDistance                =                2000
+ViewingFOV                     =                45
+WebServer                      =                False
+WebServerPort                  =                2150
+WindowGlass                    =                False
+WindowPosition_Activity        = (user set)     0, 50
+WindowPosition_CarOperations   =                50, 50
+WindowPosition_Compass         =                50, 0
+WindowPosition_ComposeMessage  = (user set)     0, 50
+WindowPosition_DriverAid       =                100, 100
+WindowPosition_Help            = (user set)     0, 0
+WindowPosition_MultiPlayer     = (user set)     88, 50
+WindowPosition_NextStation     =                0, 100
+WindowPosition_Quit            =                50, 50
+WindowPosition_Switch          =                0, 50
+WindowPosition_TrackMonitor    =                100, 0
+WindowPosition_TrainDriving    = (user set)     100, 0
+WindowPosition_TrainList       =                100, 0
+WindowPosition_TrainOperations = (user set)     0, 50
+WindowSize                     =                1024x768
+WindResistanceDependent        =                False
+Wire                           =                True
+WorldObjectDensity             =                49
+YoungestVersionFailedToRestore =                0.0
+--------------------------------------------------------------------------------
+Mode       = explorer
+Route      = BNSF Scenic Sub
+Path       = EB Path (F:\ROUTES\BNSF_Scenic\PATHS\EB_Path.pat)
+Consist    = BNSF Grain (Loads) (F:\TRAINS\CONSISTS\BNSF_Grain.con)
+Time       = 12:00:00 (12:00)
+Season     = Summer (1)
+Weather    = Clear (0)
+--------------------------------------------------------------------------------
+Loading  TRK TDB SIGCFG DAT ACT RDB CARSPAWN SIGSCR WWW
+
+Warning: Signal referenced in .w file -12819 14715 as TrItem 146 not present in .tdb file 
+
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW ENV SIGCFG SIGCFG TTYPE
+
+Information: Allocation for 87,500 particles:
+
+     16,800,000 B RAM vertex data
+      2,100,000 B RAM index data (temporary)
+     16,800,000 B VRAM DynamicVertexBuffer
+      2,100,000 B VRAM IndexBuffer
+
+TTTTTTTTTLLLLLLLLLLLLLLLLLLLWSSSSSSSSSSSSWSSS
+
+Information: Reindexing semaphore entries of signal type bnsf_switch for compatibility with MSTS
+
+SSSSSSSSSSSSSS TRP(default)SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS$WWSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS$WSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS$WSSSSSSS$WSWSSSSSSSSSSSWSSSSSSSSSSCS
+
+Warning: File SOUND\USATrack1In.sms missing from F:\ROUTES\BNSF_Scenic
+
+Warning: Skipped missing track sound USATrack1In.sms
+
+Warning: File SOUND\USATrack1Ex.sms missing from F:\ROUTES\BNSF_Scenic
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+CS
+
+Warning: File SOUND\USATrack1In.sms missing from F:\ROUTES\BNSF_Scenic
+
+Warning: Skipped missing track sound USATrack1In.sms
+
+Warning: File SOUND\USATrack1Ex.sms missing from F:\ROUTES\BNSF_Scenic
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+CS
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+CS
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+CS
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+CS
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+CS
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: File SOUND\USATrack1In.sms missing from F:\ROUTES\BNSF_Scenic
+
+Warning: Skipped missing track sound USATrack1In.sms
+
+Warning: File SOUND\USATrack1Ex.sms missing from F:\ROUTES\BNSF_Scenic
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: File SOUND\USATrack1In.sms missing from F:\ROUTES\BNSF_Scenic
+
+Warning: Skipped missing track sound USATrack1In.sms
+
+Warning: File SOUND\USATrack1Ex.sms missing from F:\ROUTES\BNSF_Scenic
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: File SOUND\USATrack1In.sms missing from F:\ROUTES\BNSF_Scenic
+
+Warning: Skipped missing track sound USATrack1In.sms
+
+Warning: File SOUND\USATrack1Ex.sms missing from F:\ROUTES\BNSF_Scenic
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: File SOUND\USATrack1In.sms missing from F:\ROUTES\BNSF_Scenic
+
+Warning: Skipped missing track sound USATrack1In.sms
+
+Warning: File SOUND\USATrack1Ex.sms missing from F:\ROUTES\BNSF_Scenic
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+C
+
+Warning: File SOUND\USATrack1In.sms missing from F:\ROUTES\BNSF_Scenic
+
+Warning: Skipped missing track sound USATrack1In.sms
+
+Warning: File SOUND\USATrack1Ex.sms missing from F:\ROUTES\BNSF_Scenic
+
+Warning: Skipped missing track sound USATrack1Ex.sms
+
+Information: Game.ReplaceState(GameStateViewer3D)  GameStateViewer3D
+
+Loader: Time       = 00:00:13.3004525 ms
+Loader: Expected   = 146,765,232 bytes
+Loader: Actual     = 146,766,110 bytes
+Loader: Difference = 878 bytes (0.0%)
+
+S
+List of commands to replay saved
+
+List of commands to replay saved
+
+List of commands to replay saved
+
+
+Information: Game.PopState()  
+
