@@ -1,7 +1,6 @@
 # Questions About `Route Extensions`
 
-哈哈我们安徽的车迷越来越多了门，我是淮南的，
-我也在完模拟火车，插件一般就是直接解压到游戏主目录下的如X:\Program Files\Microsoft Games\Train Simulator，并覆盖文件。X代表你游戏的盘符
+我也在完模拟火车，插件一般就是直接解压到游戏主目录下的如`X:\Program Files\Microsoft Games\Train Simulator`，并覆盖文件。`X`代表你游戏的盘符
 下面就正式开始交你怎么做了，都是老乡没办法，我就详细的给你讲一下吧！
 新手的几个常见问题（包括游戏任务线路汉化安装）
 1问：问什么有时会出现“列车数据读取错误”？
