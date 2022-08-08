@@ -1,4 +1,4 @@
-# Edmonton Transit Siemens–Duewag U2
+# Edmonton Transit Siemens–Düwag U2
 
 Manufacturer : Siemens
 
