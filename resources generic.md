@@ -115,7 +115,7 @@
 
 修改代码
 
-　　将以上代码复制到X:\GameData\Squad\Resources\里就可以了。
+　　将以上代码复制到X:\GameData\Squad\Resources\ResourcesGeneric.cfg里就可以了。
 
 　　X为安装游戏的硬盘分区。
 
