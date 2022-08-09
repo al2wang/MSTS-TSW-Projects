@@ -1,4 +1,4 @@
-# $\bold{MSTS (Microsoft Train Simulator)}
+# $\bf{MSTS\ (Microsoft\ Train\ Simulator)}
 
 ## New Route Projects
 
