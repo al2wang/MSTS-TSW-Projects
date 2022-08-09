@@ -1,4 +1,4 @@
-# Open-Rails (Microsoft Train Simulator)
+# MSTS (Microsoft Train Simulator)
 
 Based on `Open Rails 1.4 (2021)`
 
