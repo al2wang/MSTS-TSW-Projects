@@ -2,6 +2,10 @@
 
 I like the U2's. They are the **GM Fishbowls** of the rails. A very simple, clean, and classic timeless style.
 
+
+![image](    url???   )
+Diagram credits to Charles E. Keisler
+
 U2 Cars Acquired, By City
 
 - Calgary $\sim 82$ cars
