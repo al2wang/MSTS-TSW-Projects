@@ -1,5 +1,6 @@
-# Open-Rails
+# Open-Rails (Microsoft Train Simulator)
 
+Based on `Open Rails 1.4 (2021)`
 
 2022.08
 Work Items
