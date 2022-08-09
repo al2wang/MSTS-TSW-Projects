@@ -1,3 +1,11 @@
+- [$\textbf{MSTS (Microsoft Train Simulator)}$](#--textbf-msts--microsoft-train-simulator---)
+  * [New Route Projects](#new-route-projects)
+  * [Locomotive Extensions and Plug-ins](#locomotive-extensions-and-plug-ins)
+  * [Log Files and Records](#log-files-and-records)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 # $\textbf{MSTS (Microsoft Train Simulator)}$
 
 ## New Route Projects
