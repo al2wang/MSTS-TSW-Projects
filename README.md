@@ -15,7 +15,7 @@
 
 Based on `Open Rails 1.4 (2021)`
 
-  wuhu
+Models of rolling stock and signals can take advantage of a few features which are only available in Open Rails. The manual contains a list of about 40 parameters which improve the operation of locos.
 
 2022.08
 Work Items
