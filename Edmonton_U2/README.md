@@ -2,9 +2,9 @@
 
 U2 Cars Acquired, By City
 
-Calgary $\sim 82$ cars
-**Edmonton $\sim 37$ cars**
-Frankfurt — 104 cars
+- Calgary $\sim 82$ cars
+- **Edmonton $\sim 37$ cars**
+- Frankfurt — 104 cars
 San Diego — 71 cars
 Mendoza — 11 cars (provided by San Diego)
 Read more about this topic:  Siemens–Duewag U2
