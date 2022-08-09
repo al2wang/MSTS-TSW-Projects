@@ -1,5 +1,5 @@
 TOC
-- [MSTS (Microsoft Train Simulator)](#--textbf-msts--microsoft-train-simulator---)
+> - [MSTS (Microsoft Train Simulator)](#--textbf-msts--microsoft-train-simulator---)
   * [New Route Projects](#new-route-projects)
   * [Locomotive Extensions and Plug-ins](#locomotive-extensions-and-plug-ins)
   * [Log Files and Records](#log-files-and-records)
