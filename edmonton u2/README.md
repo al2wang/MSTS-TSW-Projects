@@ -3,7 +3,7 @@
 - Manufacturer: Siemens
 - Technical Details
 
-The U2's dimensions are $24.284 \text{m}$ (79 ft 8.1 in) by 2.650 m (8 ft 8.3 in) by 3.66 m (12 ft 0 in). The articulated halves of each car can be seen as a married pair; in the US, usually up to three such 'pairs' run together. Each articulated car has a total passenger capacity of 264 passengers. It may be equipped with two DC motors for a total power output of 300 kW (400 hp) and a maximum speed of 80 km/h (50 mph), or with four AC motors for an output of 544 kW (730 hp) and speed of 88 km/h (55 mph).
+The U2's dimensions are $24.284 \text{ m}$ (79 ft 8.1 in) by 2.650 m (8 ft 8.3 in) by 3.66 m (12 ft 0 in). The articulated halves of each car can be seen as a married pair; in the US, usually up to three such 'pairs' run together. Each articulated car has a total passenger capacity of 264 passengers. It may be equipped with two DC motors for a total power output of 300 kW (400 hp) and a maximum speed of 80 km/h (50 mph), or with four AC motors for an output of 544 kW (730 hp) and speed of 88 km/h (55 mph).
 
 As the length of a tram or light-rail train running on shared track is restricted to a maximum of 75 meters in Germany, up to three U2 cars may be used in a single consist on such track.
 
