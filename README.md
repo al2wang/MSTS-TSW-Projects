@@ -1,5 +1,11 @@
 # MSTS (Microsoft Train Simulator)
 
+## New Route Projects
+
+## Locomotive Extensions and Plug-ins
+
+## Log Files and Records
+
 Based on `Open Rails 1.4 (2021)`
 
 2022.08
