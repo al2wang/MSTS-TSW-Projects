@@ -1,4 +1,4 @@
-# Edmonton Transit Siemens–Düwag U2
+# Edmonton Transit Siemens–Düwag-U2
 
 I like the U2's. They are the **GM Fishbowls** of the rails. A very simple, clean, and classic timeless style.
 
