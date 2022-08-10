@@ -5,7 +5,7 @@
   * [Log Files and Records](#log-files-and-records)
   * [UPCOMING](#)
 
-# $\textbf{MSTS (Microsoft Train Simulator)}$
+# MSTS/OR (Microsoft Train Simulator/Open Rails)
 
 ## New Route Projects
 
