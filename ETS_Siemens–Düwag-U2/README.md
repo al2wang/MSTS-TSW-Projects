@@ -1,8 +1,8 @@
 # Edmonton Transit System 1977 Siemens–Düwag U2 RTE1 MOD
 
-I like the U2's. They are the **GM Fishbowls** of the rails. A very simple, clean, and classic timeless style.
+I like the U2's. They are the **GM Fishbowls** of the rails—of an extra simple, clean and classic timeless style.
 
-![image](    url???   )
+![image](https://github.com/al2wang/MSTS-TSW-Projects/blob/main/ETS_Siemens%E2%80%93D%C3%BCwag-U2/u2-rendering-1.jpg)
 
 ![image](https://github.com/MaiEmily/map/blob/master/public/image/20190528145810708.png)
 Diagram credits to Charles E. Keisler
