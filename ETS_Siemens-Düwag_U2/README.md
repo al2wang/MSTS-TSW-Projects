@@ -2,18 +2,18 @@
 
 I like the U2's. They are the **GM Fishbowls** of the rails—of an extra simple, clean and classic timeless style.
 
-![image](https://github.com/al2wang/MSTS-TSW-Projects/blob/main/ETS_Siemens%E2%80%93D%C3%BCwag-U2/u2-rendering-1.jpg)
-
-![image](https://github.com/MaiEmily/map/blob/master/public/image/20190528145810708.png)
+![image]( ??? )
 Diagram credits to Charles E. Keisler
 
-U2 Cars Acquired, By City
+U2 Cars Acquired, By City:
 
-- Calgary $\sim 82$ cars
-- **Edmonton $\sim 37$ cars**
-- Frankfurt — 104 cars
-San Diego — 71 cars
-Mendoza — 11 cars (provided by San Diego)
+| No. |               City              | Number of cars ordered |
+|:---:|:-------------------------------:|:----------------------:|
+|  1  |             Calgary             |     $\sim 82$ cars     |
+|  2  |             Edmonton            |     $\sim 37$ cars     |
+|  3  |            Frankfurt            |     $\sim 104$ cars    |
+|  4  |            San Diego            |     $\sim 71$ cars     |
+|  5  | Mendoza (provided by San Diego) |     $\sim 11$ cars     |
 Read more about this topic:  Siemens–Duewag U2
 
 - Manufacturer: Siemens
@@ -43,23 +43,39 @@ Number of Seats: ?
 Type Seat: Padded and Driver
 Speed : ?
 Layout :
-Engine :
+Engine:
 Transmission: Forward and reverse
 
-Dimensions (In Game)
+Dimensions (of simplified specifications in TSW2)
 
 Wheelbase: ?
 Length: 23 M
 Width : 3 M
 Height: 4.25 M
 
-Dimensions ( IN Life )
+Dimensions (of original specifications in real life)
 
 Length: 75.5 Feet
 Width : ?
 Height: ?
 
-If you like what I do go to Patreon:https: /www.patreon.com/join/legoman0320/checkout?rid=4478317
+Car body construction	Fibreglass (cabs), Steel (body)
+Car length	24 m (78 ft 8+7⁄8 in)
+Width	2,562 mm (8 ft 4+7⁄8 in)
+Height	3,780 mm (12 ft 4+7⁄8 in)
+Doors	8
+Articulated sections	1
+Maximum speed	80 km/h (50 mph)
+Weight	35,000 kg (77,000 lb)
+Power output	300 kW (400 hp)
+Electric system(s)	600-750 V DC OHLE
+Current collector(s)	Pantograph
+Braking system(s)	Dynamic Air
+Safety system(s)	CBTC
+Coupling system	Scharfenberg
+Multiple working	up to 5 cars
+Track gauge	1,435 mm (4 ft 8+1⁄2 in) standard gauge
+Seating	upholstered neoprene foam
 
 Please contact me via Steam messages
 For: broken things, re-uploading with modifications and making things better
