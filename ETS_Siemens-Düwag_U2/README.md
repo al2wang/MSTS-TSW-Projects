@@ -1,21 +1,29 @@
 # Edmonton Transit System 1977 Siemens–Düwag U2 RTE1 MOD
 
+## Why the U2's?
+
 I like the U2's. They are the **GM Fishbowls** of the rails—of an extra simple, clean and classic timeless style.
 
 ![image]( ??? )
-Diagram credits to Charles E. Keisler
 
-U2 Cars Acquired, By City:
+
+
+
+![ ]( )
+Diagram credits to ...
+
+## Info about the U2's
+1. U2 Cars Acquired, By City:
 
 | No. |               City              | Number of cars ordered |
 |:---:|:-------------------------------:|:----------------------:|
-|  1  |             Calgary             |     $\sim 82$ cars     |
-|  2  |             Edmonton            |     $\sim 37$ cars     |
-|  3  |            Frankfurt            |     $\sim 104$ cars    |
-|  4  |            San Diego            |     $\sim 71$ cars     |
-|  5  | Mendoza (provided by San Diego) |     $\sim 11$ cars     |
+|  1  |             Calgary             |     $82$ cars     |
+|  2  |             Edmonton            |     $37$ cars     |
+|  3  |            Frankfurt            |     $104$ cars    |
+|  4  |            San Diego            |     $71$ cars     |
+|  5  | Mendoza (provided by San Diego) |     $11$ cars     |
 
-Read more about this topic:  Siemens–Duewag U2
+2. Read more about this topic:  Siemens–Duewag U2
 
 - Manufacturer: Siemens
 - Technical Details
@@ -37,7 +45,6 @@ Wheels: Steel-tired with acoustic dampening
 Dynamic Braking
 Speed: 50 to 55 mph (80.5 to 88.5 km/h)
 Overhead Traction Power: 600 V DC
-
 
 Back up cameras and mirrors
 Number of Seats: ?
