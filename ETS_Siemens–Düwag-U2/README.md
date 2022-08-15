@@ -66,3 +66,5 @@ For: broken things, re-uploading with modifications and making things better
 
 Katstel :
 Did the Display
+
+The U2 light rail car is an electric multiple unit consisted of two carriages, both with powersupply via overhead wire and one with a pantograph (carriage A), developed in the late 1960s. They were the first trainset for the light rail of Frankfurt/Germany (inaugurated in 1968) and were derived from their two prototype trains called U1. The LRV series names ranging from U1 to U5 in Frankfurt are not to be confused with the light rail lines U1 to U9 where they are in use.
