@@ -1,4 +1,4 @@
-# Chinese Railway DF11G MOD
+# Chinese Railway Dongfeng-11G MOD
 
 
 
@@ -52,7 +52,7 @@ Special thanks to JetBrains for giving out an OpenSource-Licence for BlueMap dev
 
 ```
 kuid                                    <kuid:964520:10531212>
-username                                "CHN DF11G-0001"
+username                                "CHN Dongfeng-11G 0001"
 username-cn                             "DF11G Diesel Locomotive"
 category-class                          "AD"
 category-region                         "CN"
