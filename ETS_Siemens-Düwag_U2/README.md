@@ -14,6 +14,7 @@ U2 Cars Acquired, By City:
 |  3  |            Frankfurt            |     $\sim 104$ cars    |
 |  4  |            San Diego            |     $\sim 71$ cars     |
 |  5  | Mendoza (provided by San Diego) |     $\sim 11$ cars     |
+
 Read more about this topic:  Siemens–Duewag U2
 
 - Manufacturer: Siemens
