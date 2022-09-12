@@ -23,6 +23,36 @@ Based on `Open Rails 1.4 (2021)`
 
 Models of rolling stock and signals can take advantage of a few features which are only available in Open Rails. The manual contains a list of about 40 parameters which improve the operation of locos.
 
+-
+
+Soundmod for the DüWag Type-U2 from Railtraction, for the Frankfurt U-Bahn.
+
+
+This sound mod changes (replaces) ONLY EXISTING sounds.
+
+Have fun driving ^^
+
+Changelog Update 2.0
+
+- All sounds revised.
+- Error: Sound has not become quieter when removed, ***fixed.***
+- Playback script adapted for the engine.
+- Known bug: Exterior door sounds are a bit quiet.
+- Funny deep sound could be removed.
+- External sound from the curve sounds is sometimes still a bit "weird".
+
+Please link the mod if you present it in videos.
+
+THANK YOU!
+
+-
+
+## Required payware
+
+Duewag U2h U2e - Railtraction
+
+-
+
 2022.08
 Work Items
   Work items:
