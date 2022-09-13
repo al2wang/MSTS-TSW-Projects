@@ -1,0 +1,3 @@
+Primary=op_item.tga
+Tile=st
+Hint=Dynamic

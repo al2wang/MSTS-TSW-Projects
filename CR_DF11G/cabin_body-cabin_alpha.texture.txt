@@ -1,0 +1,4 @@
+Primary=cabin_body.tga
+Alpha=cabin_alpha.tga
+Tile=st
+Hint=Dynamic

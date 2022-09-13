@@ -1,0 +1,4 @@
+Primary=lampu.tga
+Alpha=lampu.tga
+Tile=st
+AlphaHint=semitransparent

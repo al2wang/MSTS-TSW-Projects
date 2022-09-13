@@ -1,0 +1,3 @@
+Primary=lens_corona.tga
+Alpha=lens_corona.tga
+Tile=st

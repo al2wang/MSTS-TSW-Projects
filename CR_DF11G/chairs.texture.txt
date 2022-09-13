@@ -1,0 +1,3 @@
+Primary=chairs.tga
+Tile=st
+Hint=Dynamic

@@ -1,0 +1,15 @@
+
+
+* switch switch_6.wav
+
+dynamicbrake_lever change-notch notch_1.wav
+
+independantbrake_lever change-notch notch_1.wav
+
+reverser_lever change-notch lever_2.wav
+
+throttle_lever change-notch lever_5.wav
+
+trainbrakelap_lever change-notch notch_1.wav
+
+trainbrake_lever change-notch notch_1.wav 

@@ -1,0 +1,4 @@
+Primary=Teline.tga
+Alpha=Teline_alpha.tga
+Tile=st
+Hint=Dynamic

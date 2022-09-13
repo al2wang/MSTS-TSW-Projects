@@ -1,0 +1,3 @@
+Primary=m.tga
+Tile=st
+Hint=Dynamic

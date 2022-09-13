@@ -1,0 +1,3 @@
+Primary=ctrl_panel.tga
+Tile=st
+Hint=Dynamic

@@ -1,0 +1,3 @@
+Primary=cabin_body.tga
+Tile=st
+Hint=Dynamic

@@ -1,0 +1,617 @@
+﻿
+kuid                                    <kuid:798180:100026>
+trainz-build                            2.5
+category-class                          "ZI"
+category-region                         "CN"
+category-era                            "2000s;2010s"
+username                                "CHN_DF11G_cabin"
+kind                                    "interior"
+cameradefault                           0
+author                                  "Alex G.W. & O.Liew"
+contact-email                           "lightever131@gmail.com"
+contact-website                         "al2wang.github.io"
+license                                 "Script:AL2; Modification:O.L." All right reserved 2021, producted by Alex G.W. and O.Liew.
+organisation                            "'O' Railroad Inc."
+
+mesh-table
+{
+  default
+  {
+    mesh                                "body/interior.im"
+    auto-create                         1
+    light                               1
+    
+    effects
+    {
+      signalw
+      {
+        kind                            "corona"
+        att                             "a.corona0"
+        texture-kuid                    <kuid:138785:2>
+        directional                     0
+        object-size                     0.05
+      }
+    }
+  }
+  
+  throttle_lever
+  {
+    mesh                                "body/throttle_lever.IM"
+    auto-create                         1
+    kind                                "lever"
+    att                                 "a.throttle_lever"
+    limits                              0,16
+    angles                              0.611,-0.611
+    notches                             0,0.0625,0.125,0.1875,0.25,0.3125,0.375,0.4375,0.5,0.5625,0.625,0.6875,0.75,0.8125,0.875,0.9375,1
+    notchheight                         1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1
+    radius                              0.2
+    att-parent                          "default"
+    tooltip-text                        "Throttle lever"
+  }
+  
+  reverser_lever
+  {
+    mesh                                "body/reverser_lever.im"
+    auto-create                         1
+    kind                                "lever"
+    att                                 "a.reverser_lever"
+    limits                              0,2
+    angles                              0.4014,-0.4014
+    notches                             0,0.5,1
+    notchheight                         1,2,1
+    radius                              0.2
+    att-parent                          "default"
+  }
+  
+  trainbrake_lever
+  {
+    mesh                                "body/trainbrake_lever.IM"
+    auto-create                         1
+    kind                                "lever"
+    att                                 "a.automatic_brake"
+    limits                              0,4
+    angles                              -0.9423,0.9423
+    notches                             0,0.25,0.27,0.29,0.31,0.33,0.35,0.37,0.39,0.41,0.43,0.45,0.47,0.49,0.5,0.75,1
+    notchheight                         1,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,1
+    radius                              0.2
+    att-parent                          "default"
+  }
+  
+  independantbrake_lever
+  {
+    mesh                                "body/ind_brake.IM"
+    auto-create                         1
+    kind                                "lever"
+    att                                 "a.ind_brake_lever"
+    limits                              0,32
+    angles                              -0.78525,0.78525
+    notches                             0,0.0303,0.0606,0.0909,0.1212,0.1515,0.1818,0.2121,0.2424,0.2727,0.303,0.3333,0.3636,0.3939,0.4242,0.4545,0.4848,0.5151,0.5454,0.5757,0.606,0.6363,0.6666,0.6969,0.7272,0.7575,0.7878,0.8181,0.8484,0.8787,0.909,0.9393,1
+    notchheight                         1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1
+    radius                              0.2
+    att-parent                          "default"
+    light                               0
+  }
+  
+  light_switch
+  {
+    mesh                                "body/switch1.im"
+    auto-create                         1
+    kind                                "lever"
+    att                                 "a.light_switch"
+    limits                              0,1
+    angles                              0,-0.2094
+    notches                             0,1
+    notchheight                         1,1
+    radius                              0.1
+    att-parent                          "default"
+  }
+  
+  switch0
+  {
+    mesh                                "body/switch2.im"
+    auto-create                         1
+    kind                                "lever"
+    att                                 "a.witch0"
+    limits                              0,1
+    angles                              0,-0.2094
+    notches                             0,1
+    notchheight                         2,2
+    radius                              0.1
+    att-parent                          "default"
+    tooltip-text                        "2"
+  }
+  
+  switch1
+  {
+    mesh                                "body/switch2.im"
+    auto-create                         1
+    kind                                "lever"
+    att                                 "a.witch1"
+    limits                              0,1
+    angles                              0,-0.2094
+    notches                             0,1
+    notchheight                         2,2
+    radius                              0.1
+    att-parent                          "default"
+    tooltip-text                        "3"
+  }
+  
+  switch2
+  {
+    mesh                                "body/switch2.im"
+    auto-create                         1
+    kind                                "lever"
+    att                                 "a.witch2"
+    limits                              0,2
+    angles                              0.2094,-0.2094
+    notches                             0.5,0,1
+    notchheight                         2,1,2
+    radius                              0.1
+    att-parent                          "default"
+    tooltip-text                        "4"
+  }
+  
+  switch3
+  {
+    mesh                                "body/switch2.im"
+    auto-create                         1
+    kind                                "lever"
+    att                                 "a.witch3"
+    limits                              0,1
+    angles                              0,-0.2094
+    notches                             0,1
+    notchheight                         2,2
+    radius                              0.1
+    att-parent                          "default"
+  }
+  
+  switch4
+  {
+    mesh                                "body/switch3.im"
+    auto-create                         1
+    kind                                "lever"
+    att                                 "a.witch4"
+    limits                              0,1
+    angles                              0,-0.2094
+    notches                             0,1
+    notchheight                         2,2
+    radius                              0.1
+    att-parent                          "default"
+    tooltip-text                        "6"
+  }
+  
+  switch5
+  {
+    mesh                                "body/switch2.im"
+    auto-create                         1
+    kind                                "lever"
+    att                                 "a.witch5"
+    limits                              0,1
+    angles                              0,-0.2094
+    notches                             0,1
+    notchheight                         2,2
+    radius                              0.1
+    att-parent                          "default"
+    tooltip-text                        "7"
+  }
+  
+  switch6
+  {
+    mesh                                "body/switch2.im"
+    auto-create                         1
+    kind                                "lever"
+    att                                 "a.witch6"
+    limits                              0,1
+    angles                              0,-0.2094
+    notches                             0,1
+    notchheight                         2,2
+    radius                              0.1
+    att-parent                          "default"
+    tooltip-text                        "8"
+  }
+  
+  switch7
+  {
+    mesh                                "body/switch1.im"
+    auto-create                         1
+    kind                                "lever"
+    att                                 "a.witch7"
+    limits                              0,2
+    angles                              0.2094,-0.2094
+    notches                             0,0.5,1
+    notchheight                         1,2,1
+    radius                              1
+    att-parent                          "default"
+    tooltip-text                        "9"
+  }
+  
+  switch8
+  {
+    mesh                                "body/switch4.IM"
+    auto-create                         1
+    kind                                "lever"
+    att                                 "a.witch8"
+    limits                              0,1
+    angles                              0,-0.2094
+    notches                             0,1
+    notchheight                         1,1
+    radius                              0.1
+    att-parent                          "default"
+    tooltip-text                        "10"
+  }
+  
+  switch9
+  {
+    mesh                                "body/switch4.IM"
+    auto-create                         1
+    kind                                "lever"
+    att                                 "a.witch9"
+    limits                              0,2
+    angles                              0.2094,-0.2094
+    notches                             0,0.5,1
+    notchheight                         2,1,2
+    radius                              0.1
+    att-parent                          "default"
+    tooltip-text                        "11"
+  }
+  
+  switch10
+  {
+    mesh                                "body/switch4.IM"
+    auto-create                         1
+    kind                                "lever"
+    att                                 "a.witch10"
+    limits                              0,2
+    angles                              0.2094,-0.2094
+    notches                             0,0.5,1
+    notchheight                         2,1,2
+    radius                              0.1
+    att-parent                          "default"
+    tooltip-text                        "12"
+  }
+  
+  switch11
+  {
+    mesh                                "body/switch4.IM"
+    auto-create                         1
+    kind                                "lever"
+    att                                 "a.witch11"
+    limits                              0,2
+    angles                              0.2094,-0.2094
+    notches                             0,0.5,1
+    notchheight                         2,1,2
+    radius                              0.1
+    att-parent                          "default"
+    tooltip-text                        "13"
+  }
+  
+  switch12
+  {
+    mesh                                "body/switch4.IM"
+    auto-create                         1
+    kind                                "lever"
+    att                                 "a.witch12"
+    limits                              0,2
+    angles                              0.2094,-0.2094
+    notches                             0,0.5,1
+    notchheight                         2,1,2
+    radius                              0.1
+    att-parent                          "default"
+    tooltip-text                        "14"
+  }
+  
+  switch13
+  {
+    mesh                                "body/switch4.IM"
+    auto-create                         1
+    kind                                "lever"
+    att                                 "a.witch13"
+    limits                              0,1
+    angles                              0,-0.2094
+    notches                             0,1
+    notchheight                         2,2
+    radius                              0.1
+    att-parent                          "default"
+    tooltip-text                        "15"
+  }
+  
+  switch14
+  {
+    mesh                                "body/switch4.IM"
+    auto-create                         1
+    kind                                "lever"
+    att                                 "a.witch14"
+    limits                              0,1
+    angles                              0,-0.2094
+    notches                             0,1
+    notchheight                         2,2
+    radius                              0.1
+    att-parent                          "default"
+    tooltip-text                        "16"
+  }
+  
+  switch15
+  {
+    mesh                                "body/switch4.IM"
+    auto-create                         1
+    kind                                "lever"
+    att                                 "a.witch15"
+    limits                              0,2
+    angles                              0.2094,-0.2094
+    notches                             0,0.5,1
+    notchheight                         2,1,2
+    radius                              0.1
+    att-parent                          "default"
+    tooltip-text                        "17"
+  }
+  
+  horn
+  {
+    mesh                                "body/horn_buttom.IM"
+    auto-create                         1
+    kind                                "pullrope"
+    att                                 "a.horn"
+    limits                              0,1
+    angles                              0,-0.003
+    notches                             0,1
+    mousespeed                          -2
+    att-parent                          "default"
+    tooltip-text                        "horn"
+    notchheight                         0.5,0.5
+    radius                              0.2
+  }
+  
+  switch16
+  {
+    mesh                                "body/chair.IM"
+    auto-create                         1
+    light                               1
+    kind                                "lever"
+    att                                 "a.chair1"
+    limits                              0,1
+    angles                              -3.141,3.141
+    notches                             0,1
+    att-parent                          "default"
+    tooltip-text                        "chair"
+    notchheight                         2.5,2.5
+    radius                              0
+  }
+  
+  switch17
+  {
+    mesh                                "body/chair.IM"
+    auto-create                         1
+    light                               1
+    kind                                "lever"
+    att                                 "a.chair2"
+    limits                              0,1
+    angles                              -3.141,3.141
+    notches                             0,1
+    att-parent                          "default"
+    tooltip-text                        "chair"
+    notchheight                         2.5,2.5
+    radius                              0
+  }
+  
+  seat1
+  {
+    mesh                                "body/seat.im"
+    auto-create                         1
+    light                               1
+    kind                                "lever"
+    att                                 "a.seat1"
+    limits                              0,1
+    angles                              1.5705,0
+    notches                             0,1
+    att-parent                          "default"
+  }
+  
+  seat2
+  {
+    mesh                                "body/seat.im"
+    auto-create                         1
+    light                               1
+    kind                                "lever"
+    att                                 "a.seat2"
+    limits                              0,1
+    angles                              1.5705,0
+    notches                             0,1
+    att-parent                          "default"
+  }
+  
+  window0
+  {
+    mesh                                "body/win1.im"
+    auto-create                         1
+    kind                                "lever"
+    att                                 "a.win1"
+    limits                              0,1
+    angles                              0,-0.01745
+    notches                             0,1
+    notchheight                         4,4
+    radius                              0.2
+    att-parent                          "default"
+    tooltip-text                        "."
+    mousespeed                          -1
+  }
+  
+  window1
+  {
+    mesh                                "body/win2.im"
+    auto-create                         1
+    kind                                "lever"
+    att                                 "a.win2"
+    limits                              0,1
+    angles                              0,-0.01745
+    notches                             0,1
+    notchheight                         4,4
+    radius                              0.2
+    att-parent                          "default"
+    tooltip-text                        "."
+    mousespeed                          -1
+  }
+  
+  speedo_needle
+  {
+    mesh                                "body/speedle.IM"
+    auto-create                         1
+    kind                                "needle"
+    att                                 "a.speedle0"
+    limits                              0,50
+    angles                              -2.094,1.6752
+    att-parent                          "default"
+  }
+  
+  ampmeter_needle
+  {
+    mesh                                "body/ampneedle1.IM"
+    auto-create                         1
+    kind                                "needle"
+    att                                 "a.ampneedle0"
+    limits                              0,50
+    angles                              0.2094,-0.2094
+    att-parent                          "default"
+  }
+  
+  ampmeter_needle_1
+  {
+    mesh                                "body/ampneedle2.IM"
+    auto-create                         1
+    kind                                "needle"
+    att                                 "a.ampneedle1"
+    limits                              0,30
+    angles                              0,-0.2094
+    att-parent                          "default"
+  }
+  
+  ampmeter_needle_2
+  {
+    mesh                                "body/ampneedle1.IM"
+    auto-create                         1
+    kind                                "needle"
+    att                                 "a.ampneedle2"
+    limits                              0,30
+    angles                              0.2094,-0.2094
+    att-parent                          "default"
+  }
+  
+  ampmeter_needle_3
+  {
+    mesh                                "body/ampneedle2.IM"
+    auto-create                         1
+    kind                                "needle"
+    att                                 "a.ampneedle4"
+    limits                              0,30
+    angles                              0,-0.2094
+    att-parent                          "default"
+  }
+  
+  bptrainbrakepipe_needle
+  {
+    mesh                                "body/bneedle.IM"
+    auto-create                         1
+    kind                                "needle"
+    att                                 "a.bneddle1"
+    limits                              0,1000
+    angles                              -2.443,1.5705
+    att-parent                          "default"
+  }
+  
+  bplocomain_needle
+  {
+    mesh                                "body/rneedle.IM"
+    auto-create                         1
+    kind                                "needle"
+    att                                 "a.rneddle1"
+    limits                              0,1000
+    angles                              -2.443,1.5705
+    att-parent                          "default"
+  }
+  
+  bptrainbrakecylinder_needle
+  {
+    mesh                                "body/bneedle.IM"
+    auto-create                         1
+    kind                                "needle"
+    att                                 "a.bneddle2"
+    limits                              0,1000
+    angles                              -2.443,1.5705
+    att-parent                          "default"
+  }
+  
+  flow_needle
+  {
+    mesh                                "body/rneedle.IM"
+    auto-create                         1
+    kind                                "needle"
+    att                                 "a.rneddle2"
+    limits                              0,1000
+    angles                              -2.443,1.5705
+    att-parent                          "default"
+  }
+  
+  manual_p3
+  {
+    mesh                                "body/M3.IM"
+    auto-create                         1
+    kind                                "lever"
+    att                                 "a.book"
+    limits                              0,1
+    angles                              -1.5705,1.5705
+    notches                             0,1
+    notchheight                         2.5,2.5
+    att-parent                          "default"
+  }
+  
+  manual_p2
+  {
+    mesh                                "body/M2.IM"
+    auto-create                         1
+    kind                                "lever"
+    att                                 "a.book"
+    limits                              0,1
+    angles                              -1.5705,1.5705
+    notches                             0,1
+    notchheight                         2.5,2.5
+    att-parent                          "default"
+  }
+  
+  manual_p1
+  {
+    mesh                                "body/M1.IM"
+    auto-create                         1
+    kind                                "lever"
+    att                                 "a.book"
+    limits                              0,1
+    angles                              -1.5705,1.5705
+    notches                             0,1
+    notchheight                         2.5,2.5
+    att-parent                          "default"
+  }
+}
+
+cameralist
+{
+  camera0                               0.512,-0.015,0.096,-0.018,-0.054
+  camera1                               0.538,-0.027,0.371,-0.085,-0.204
+  camera2                               -1,-0.062,0.096,-0.006,-0.204
+  camera3                               0.199,0.439,0.158,0.848,-0.046
+  camera4                               -0.745,0.414,0.158,-0.727,-0.027
+  camera5                               1.11,0.436,0.656,-0.65,-0.604
+  camera6                               -1.522,0.488,0.66,-5.366,-0.364
+}
+
+thumbnails
+{
+  0
+  {
+    image                               "preview.jpg"
+    width                               240
+    height                              180
+  }
+}
+
+kuid-table
+{
+  0                                     <kuid:138785:2>
+}
