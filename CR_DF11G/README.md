@@ -18,7 +18,7 @@ Some features and some blocks are still missing. Especially some tile-entities w
 
 # Download
 
-This is a modification addon (MOD) of rolling stocks for the TS (Train Simulator) 2016 to 2021 version. You can visit our website [??] and download this MOD from there (sorry I tried the other days on uploading the compressed files here but wasn't able to make it because git said 
+This is a modification addon (MOD) of rolling stocks for the TS (Train Simulator) 2016 to 2021 version. You can visit our website [??] and download this MOD from there (sorry I tried the other days on uploading the compressed files here but wasn't able to make it because git considered the file too big`:'`) 
 
 Use it to create .S shape files for Microsoft Train Simulator or Open Rails. Instructions, sample files and contact info are included in the `config.` files within the download `zip.` kit.
 
