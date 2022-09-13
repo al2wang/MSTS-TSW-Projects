@@ -5,7 +5,7 @@
 
 # Configuration Log
 
-## DF11G 0001
+## DF11G 0001 & 0002
 
 title-banner
 BlueMap is a tool that generates 3d-maps of your Minecraft worlds and displays them in your browser. Take a look at this demo. It is really easy to set up - almost plug-and-play - if you use the integrated web-server (optional).
@@ -14,10 +14,15 @@ The plugins/mods automatically update your map as soon as something changes in y
 
 Some features and some blocks are still missing. Especially some tile-entities will not render correctly/at all. See below for a list of what is planned for future releases.
 
-screenshot
+# Screenshots
 
 # Download
-You can choose a version and download BlueMap from here.
+
+This is a modification addon (MOD) of rolling stocks for the TS (Train Simulator) 2016 to 2021 version. You can visit our website [??] and download this MOD from there (sorry I tried the other days on uploading the compressed files here but wasn't able to make it because git said 
+
+Use it to create .S shape files for Microsoft Train Simulator or Open Rails. Instructions, sample files and contact info are included in the `config.` files within the download `zip.` kit.
+
+For support, please start a new topic at the Elvas Tower forum
 
 Using BlueMap
 BlueMap can be used on the command-line, or as a plugin/mod for your Sponge/Spigot/Paper/Forge/Fabric-Server. Read the wiki to get started!
