@@ -53,7 +53,7 @@ Reddit: https://www.reddit.com/r/BlueMap
 
 JetBrainsLogo
 
-Special thanks to [O. Lieu]https://bluecolo.red/map-wiki for giving out an OpenSource-Licence for the  development!
+Special thanks to O. Lieu for giving out an OpenSource-Licence for the development!
 
 ```
 kuid                                    <kuid:964520:10531212>
