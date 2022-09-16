@@ -33,10 +33,10 @@ If you have git installed, simply use the command git clone --recursive https://
 Build
 In order to build BlueMap you simply need to run the ./gradlew clean build command in BlueMap's root directory. You can find the compiled JAR files in ./build/release.
 
-Issues / Suggestions
-You found a bug, have another issue or a suggestion? Please create an issue here!
+## Issues / Suggestions
+Do you ever find a bug, have another issue or a suggestion? Please create an issue here!
 
-Contributing
+## Contributing
 You are welcome to contribute! Just create a pull request with your changes :)
 
 If you want to have your changes merged, make sure they are complete, documented and well tested!
