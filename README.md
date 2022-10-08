@@ -8,8 +8,10 @@ Ver 3.1
   * [UPCOMING](#)
   
 # Changelog
-All notable changes to this project are documented in this section.
-Note: the project underwent a maintenance shift in the creation of v0.4.0.
+All notable changes to this project are documented in this section.\\
+Note: the project underwent a maintenance shift in the creation of v0.4.0.\\
+- Sept 9th 2022: fixed a couple of blurry outline of locomotive texture.
+- 
 
 # MSTS/OR (Microsoft Train Simulator/Open Rails)
 
