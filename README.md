@@ -6,7 +6,7 @@ Ver 3.1
   * [Locomotive Extensions and Plug-ins](#locomotive-extensions-and-plug-ins)
   * [Log Files and Records](#log-files-and-records)
   * [UPCOMING](#)
-  
+
 # Changelog
 All notable changes to this project are documented in this section. Note: the project underwent a maintenance shift in the creation of v0.4.0.
 - Sept 9th 2022: fixed a couple of blurry outline of locomotive texture.
@@ -15,6 +15,8 @@ All notable changes to this project are documented in this section. Note: the pr
 # MSTS/OR (Microsoft Train Simulator/Open Rails)
 
 ## New Route Projects
+- Chengdu-Kunming Railway
+- 
 
 ## Locomotive Extensions and Plug-ins
 
