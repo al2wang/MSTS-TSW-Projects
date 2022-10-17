@@ -1,9 +1,6 @@
-# Chinese Railway Dongfeng-11G MOD
+# Chinese Railway Dongfeng-11G MOD (CR DF11G)
 
-
-
-
-# Configuration Log
+# Intro
 
 ## DF11G 0001 & 0002
 
@@ -18,7 +15,7 @@ Some features and some blocks are still missing. Especially some tile-entities w
 
 # Download
 
-This is a modification addon (MOD) of rolling stocks for the TS (Train Simulator) 2016 to 2021 version. You can visit our website [??] and download this MOD from there (sorry I tried the other days on uploading the compressed files here but wasn't able to make it because git considered the file too big`:'`) 
+This is a modification addon (MOD) of rolling stocks for the TS (Train Simulator) 2016 to 2021 version. You can visit [my website](https://sites.google.com/d/1Sp0SWFzXfnzDfjgsRoTEpINChbRJtaOL/p/1kW8f9iZUWa2mWLco0zsrf_FUx5Ld9QRm/edit) and download this MOD from there (sorry I tried the other days on uploading the compressed files here but wasn't able to make it because git considered the file too big`:'`) 
 
 Use it to create .S shape files for Microsoft Train Simulator or Open Rails. Instructions, sample files and contact info are included in the `config.` files within the download `zip.` kit.
 
@@ -34,10 +31,10 @@ Build
 In order to build BlueMap you simply need to run the ./gradlew clean build command in BlueMap's root directory. You can find the compiled JAR files in ./build/release.
 
 ## Issues / Suggestions
-Do you ever find a bug, have another issue or a suggestion? Please create an issue here!
+Do you ever find a bug, have another issue or a suggestion? Please create an issue here, thank you so much:)
 
 ## Contributing
-You are welcome to contribute! Just create a pull request with your changes :)
+You are welcome to contribute! Just feel free to create a pull request with your changes:)
 
 If you want to have your changes merged, make sure they are complete, documented and well tested!
 
@@ -67,6 +64,7 @@ Features:
 
 Installation:
 
+Right-click the repository and choose the option that says Extract All…, Unzip, or Uncompress, and then select a folder where you want the files to end up
 If to replace:
 1. Open OpenIV, find and replace files freight.yft,freight_hi.ift and freight.ytd
 Grand Theft Auto Vmodsx64e.rpflevelsgta5vehicles.rpf
@@ -76,6 +74,8 @@ Add-On： ​​
 Grand Theft Auto Vupdatex64dlcpacks
 
 2.Open OpenIV, and open the dlclist.xml file
+right-click it and choose the option that says Extract All…, Unzip, or Uncompress, and then select a folder where you want the files to end up.
+
 Grand Theft Auto Vupdateupdate.rpfcommondatadlclist.xml
 open, add a new line：
 
@@ -84,6 +84,8 @@ dlcpacks:df11g
 3. Place the trains.xml file in:
 ------------------> common.rpfdatalevelsgta5
 ```
+
+# Configuration log
 
 ```
 kuid                                    <kuid:964520:10531212>
