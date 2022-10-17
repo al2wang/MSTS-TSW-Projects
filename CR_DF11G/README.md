@@ -56,6 +56,36 @@ JetBrainsLogo
 Special thanks to O. Lieu for giving out an OpenSource-Licence for the development!
 
 ```
+3D Model: Train Simulator 2017;
+Enveloped in Open Rail 2020.
+
+Features:
+- Detailed cockpit.
+- An/two male figure(s) (changeable through operation) sitting in the driver's seat.
+- Customized collision when trains going off the rails.
+- Light and shade sources corrected.
+
+Installation:
+
+If to replace:
+1. Open OpenIV, find and replace files freight.yft,freight_hi.ift and freight.ytd
+Grand Theft Auto Vmodsx64e.rpflevelsgta5vehicles.rpf
+
+Add-On： ​​
+1. Copy the folder "dg11g" and place
+Grand Theft Auto Vupdatex64dlcpacks
+
+2.Open OpenIV, and open the dlclist.xml file
+Grand Theft Auto Vupdateupdate.rpfcommondatadlclist.xml
+open, add a new line：
+
+dlcpacks:df11g
+
+3. Place the trains.xml file in:
+------------------> common.rpfdatalevelsgta5
+```
+
+```
 kuid                                    <kuid:964520:10531212>
 username                                "CHN Dongfeng-11G 0001"
 username-cn                             "DF11G Diesel Locomotive"
