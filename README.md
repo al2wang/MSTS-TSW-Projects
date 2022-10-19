@@ -69,6 +69,20 @@ Work Items
 
 # Permission notice
 
+1. If anyone intends to modify/convert any content in the document and make it public, simply indicate the original author. Can.
+2. Do not pretend to be the maker, and those who violate it will be investigated. 
+3. This work is a free file and no one can use this file to receive benefits (including any material or immaterial rewards). 
+
+4. Everyone is welcome to record and put it on social platforms (Facebook, YouTube, etc.) but please indicate the reason for this work? Make. 
+
+5. To retweet, please post the work's Facebook post/page, not the download link. 
+
+
+
+Before starting the game, make sure you have read the above. 
+
+If it is found to have violated the above matters, the studio reserves the right to pursue it.
+
 1. 如任何人士打算修改/轉換檔案中任何內容後並公開，只需注明原作者為?即可。
 2. 不可冒認自己為製作者，違者必究。
 3. 本作品為免費檔案，任何人均不能利用本檔案收取利益(包括任何物質及非物質的回報)。
