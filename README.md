@@ -9,8 +9,14 @@ Ver 3.1.1
 
 # Changelog
 All notable changes to this project are documented in this section. Note: the project underwent a maintenance shift in the creation of v0.4.0.
-- Sept 9th 2022: fixed a couple of blurry outline of locomotive texture.
-- 
+- Update `1.1` (Sept 9th 2022): fixed a couple of blurry outline of locomotive texture.
+- Update `2.0`:
+  - All sounds revised.
+  - Error: Sound has not become quieter when removed, ***fixed.***
+  - Playback script adapted for the engine.
+  - Known bug: Exterior door sounds are a bit quiet.
+  - Funny deep sound could be removed.
+  - External sound from the curve sounds is sometimes still a bit "weird".
 
 # MSTS/OR (Microsoft Train Simulator/Open Rails)
 
@@ -39,14 +45,7 @@ This sound mod changes (replaces) ONLY EXISTING sounds.
 
 Have fun driving ^^
 
-Changelog Update 2.0
-
-- All sounds revised.
-- Error: Sound has not become quieter when removed, ***fixed.***
-- Playback script adapted for the engine.
-- Known bug: Exterior door sounds are a bit quiet.
-- Funny deep sound could be removed.
-- External sound from the curve sounds is sometimes still a bit "weird".
+- (sound mod)
 
 Please link the mod if you present it in videos.
 
@@ -81,6 +80,7 @@ Work Items
 
 5. To retweet, please post the work's Facebook post/page, not the download link. 
 
+---
 
 
 Before starting the game, make sure you have read the above. 
