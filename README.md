@@ -9,14 +9,23 @@ Ver 3.1.1
 
 # Changelog
 All notable changes to this project are documented in this section. Note: the project underwent a maintenance shift in the creation of v0.4.0.
-- Update `1.1` (Sept 9th 2022): fixed a couple of blurry outline of locomotive texture.
-- Update `2.0`:
+- Update `1.1` (Aug 2022): fixed a couple of blurry outline of locomotive texture.
+- Update `1.2`:
   - All sounds revised.
-  - Error: Sound has not become quieter when removed, ***fixed.***
+  - Error: Sound has not become quieter when removed, ***fixed***.
   - Playback script adapted for the engine.
   - Known bug: Exterior door sounds are a bit quiet.
   - Funny deep sound could be removed.
   - External sound from the curve sounds is sometimes still a bit "weird".
+- Update `2.0` (Sept 9th 2022):
+  - Work Items:
+    - Target route reduced: `DONE`
+    - Choose the activity: `DONE`
+    - Refine if needed to show off Open Rails: `DONE`
+    - Add method to OR to identify files needed: `DONE`
+    - Extract a minimum set of files from full product: `DONE`
+    - Create a tutorial video with commentary: `DONE`
+    - Create an installation guide: `DONE`
 
 # MSTS/OR (Microsoft Train Simulator/Open Rails)
 
@@ -36,12 +45,8 @@ Based on `Open Rails 1.4 (2021)`
 
 Models of rolling stock and signals can take advantage of a few features which are only available in Open Rails. The manual contains a list of about 40 parameters which improve the operation of locos.
 
--
-
-Soundmod for the DüWag Type-U2 from Railtraction, for the Frankfurt U-Bahn.
-
-
-This sound mod changes (replaces) ONLY EXISTING sounds.
+- Soundmod for the DüWag Type-U2 from Railtraction, for the Frankfurt U-Bahn.
+- This sound mod changes (replaces) ONLY EXISTING sounds.
 
 Have fun driving ^^
 
@@ -59,16 +64,7 @@ Duewag U2h U2e - Railtraction
 
 -
 
-2022.08
-Work Items
-  Work items:
-  - Target route reduced: `DONE`
-  - Choose the activity: `DONE`
-  - Refine if needed to show off Open Rails: `DONE`
-  - Add method to OR to identify files needed: `DONE`
-  - Extract a minimum set of files from full product: `DONE`
-  - Create a tutorial video with commentary: `DONE`
-  - Create an installation guide: `DONE`
+
 
 # Permission notice
 
