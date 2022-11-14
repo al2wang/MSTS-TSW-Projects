@@ -11,6 +11,21 @@ The plugins/mods automatically update your map as soon as something changes in y
 
 Some features and some blocks are still missing. Especially some tile-entities will not render correctly/at all. See below for a list of what is planned for future releases.
 
+```
+Category                                MOD for Open Rails 2020
+Section                                 Vehicles → Trains and trams
+Author                                  Alex G. Wang
+E-mail / website:                       [Email](lightever131@gmail.com), [Website](al2wang.github.io)
+File size:
+44.85 Mb
+File replaces:
+dlc.rpf, freight.yft, ...
+Uploaded:
+13 April 2018
+Downloads:
+506
+```
+
 # Screenshots
 
 # Download
