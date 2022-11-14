@@ -50,7 +50,7 @@ Reddit: https://www.reddit.com/r/BlueMap
 
 JetBrainsLogo
 
-Special thanks to O. Lieu for giving out an OpenSource-Licence for the development!
+Special thanks to O. Lieu for giving out an open-sourced licence for the development!
 
 ```
 3D Model: Train Simulator 2017;
